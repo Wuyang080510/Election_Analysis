@@ -1,6 +1,5 @@
-Use Python to Perform the Election Audit
-
 # Election_Analysis
+Use Python to Perform the Election Audit
 
 ## Overview
 In this project I was asked to go through the election data and perform election audit for the Colorado Board of Election with Python. 
@@ -18,6 +17,7 @@ Finally, I will use GitBash to push the election audit results and resources to 
     * Arapahoe: 6.7% (24,801)
   
   Denver county got the largest number of votes. Its votes are around five times more than the total votes received by Jefferson county and Arapahoe county. 
+  
   The following image shows the code I used to extract and print out the election results for each county and the name of the county with the largest number   of votes. 
   ![codes return the election results for counties](https://user-images.githubusercontent.com/106395288/175107478-88d97906-60a8-4f30-8bc1-cbccfca735ca.png)
    
@@ -27,9 +27,9 @@ Finally, I will use GitBash to push the election audit results and resources to 
     * Raymon Anthony Doane: 3.1% (11,606)
 
   Diana DeGette in Jefferson county is the winner of this election event. She got 272,892 votes, which is 73.8% of the total votes. 
+  
   The following image shows the code I used to extract and print out the name of the candidate with the largest number of votes and the highest percentage of   the vote. 
-
-
+  ![codes return the election results for candidates](https://user-images.githubusercontent.com/106395288/175108274-e0e62fc9-13a8-4bdf-8c64-05f20189e606.png)
 
 ## Election-Audit Summary
 This Python election result audit project turns election audit into an automatic process. The script can be applied to different election districts and get election results in just a few minutes. 
