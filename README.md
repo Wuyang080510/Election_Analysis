@@ -19,7 +19,7 @@ Finally, I will use GitBash to push the election audit results and resources to 
   
   Denver county got the largest number of votes. Its votes are around five times more than the total votes received by Jefferson county and Arapahoe county. 
   The following image shows the code I used to extract and print out the election results for each county and the name of the county with the largest number   of votes. 
-  
+  ![codes return the election results for counties](https://user-images.githubusercontent.com/106395288/175107478-88d97906-60a8-4f30-8bc1-cbccfca735ca.png)
    
 - Election audit results by candidate:
     * Charles Casper Stockham: 23.0% (85,213)
